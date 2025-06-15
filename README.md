@@ -11,9 +11,7 @@ A responsive frontend clone of the Amazon homepage created using HTML and CSS.
 - Footer with navigation links
 - Hover effects on product boxes and buttons
 
-## 📸 Screenshots
 
-> (Add images of your project if possible — use `img` tags or drag-drop)
 
 ## 🔧 Technologies Used
 
@@ -23,5 +21,5 @@ A responsive frontend clone of the Amazon homepage created using HTML and CSS.
 - Media Queries
 - Font Awesome (for icons)
 
-## 📂 Project Structure
+
 
